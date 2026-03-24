@@ -5,7 +5,7 @@ A full-stack Web3 + AI application that analyzes Ethereum wallet risk. Enter a w
 ## Screenshots
 
 ### Analyzer Page
-![Analyzer Page](screenshots/analyzer.png)
+![Analyzer Page](screenshots/new.png)
 
 ### Settings Page
 ![Settings Page](screenshots/settings.png)
